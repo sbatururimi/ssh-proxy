@@ -1,0 +1,9 @@
+Host my-proxy
+  Hostname <add the ip>
+  User <your user>
+  IdentityFile ~/.ssh/<ssh private key associated with>
+  DynamicForward 8080
+  ControlMaster auto
+  ControlPath ~/.ssh/sockets/%r@%h:%p
+	
+
