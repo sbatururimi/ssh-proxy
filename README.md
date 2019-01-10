@@ -20,4 +20,4 @@ That's it. Use it by copuy pasting the ip address where you need (ex: in your br
 
 # License
 https://github.com/sbatururimi/ssh-proxy/blob/master/LICENSE.md
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)].
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
